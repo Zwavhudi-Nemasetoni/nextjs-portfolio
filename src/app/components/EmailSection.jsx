@@ -76,7 +76,7 @@ const EmailSection = () => {
                 htmlFor="email"
                 className="text-white block mb-2 text-sm font-medium"
               >
-                Your email
+                zwavhudin@yahoo.com
               </label>
               <input
                 name="email"

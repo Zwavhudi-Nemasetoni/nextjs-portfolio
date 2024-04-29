@@ -13,6 +13,7 @@ const TAB_DATA = [
         <li>CSS</li>
         <li>JavaScript</li>
         <li>React</li>
+        <li>Python</li>
       </ul>
     ),
   },
