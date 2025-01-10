@@ -11,7 +11,7 @@ const projectsData = [
     description: `AI Poems Generatoor
 Where creativity meets technology.
 An interactive app that crafts unique poems based on your mood, theme, or keywords. Sleek design, dynamic outputs, and responsive features make it a blend of artistry and innovation.`,
-    image: "/images/projects/1.png",
+    image: "/images/projects/1.jfif",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Zwavhudi-Nemasetoni/AI-Poems-Project",
     previewUrl: "https://aipoem.netlify.app/",
