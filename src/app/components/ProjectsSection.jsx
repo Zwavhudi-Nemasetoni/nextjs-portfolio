@@ -11,19 +11,21 @@ const projectsData = [
     description: `AI Poems Generatoor
 Where creativity meets technology.
 An interactive app that crafts unique poems based on your mood, theme, or keywords. Sleek design, dynamic outputs, and responsive features make it a blend of artistry and innovation.`,
-    image: "/images/projects/1.jfif",
+    image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Zwavhudi-Nemasetoni/AI-Poems-Project",
     previewUrl: "https://aipoem.netlify.app/",
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
-    description: "Project 2 description",
+    title: "NEXTJS Portfolio Website",
+    description: `NEXT.js Portfolio
+Showcasing skills with style and speed.
+A modern, responsive portfolio built with NEXT.js, featuring sleek design, lightning-fast navigation, and seamless user experience.`,
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://nextjs-portfolio-ashy-omega.vercel.app/",
   },
   {
     id: 3,
