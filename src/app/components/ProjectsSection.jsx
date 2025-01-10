@@ -7,12 +7,14 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
+    title: "AI Poems Generator",
+    description: `AI Poems Generatoor
+Where creativity meets technology.
+An interactive app that crafts unique poems based on your mood, theme, or keywords. Sleek design, dynamic outputs, and responsive features make it a blend of artistry and innovation.`,
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Zwavhudi-Nemasetoni/AI-Poems-Project",
+    previewUrl: "https://aipoem.netlify.app/",
   },
   {
     id: 2,
